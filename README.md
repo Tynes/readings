@@ -2,5 +2,8 @@
 This is a repo full of articles, papers and assorted readings that I find to be interesting.
 
 ## Programming
-### React
-https://daveceddia.com/avoid-bind-when-passing-props/
+
+### JavaScript
+[Use Cases for Proxies](http://devbryce.com/use-cases-for-es6-proxies/)
+#### React
+[Using bind when Passing Props is Bad](https://daveceddia.com/avoid-bind-when-passing-props/)
