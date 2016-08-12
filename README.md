@@ -15,6 +15,9 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 [Approaching Almost Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
 [Scipy Lecture Notes](http://www.scipy-lectures.org/)  
 
+### Data Science
+[How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
+
 ## Science
 
 ### Neuroscience
@@ -24,7 +27,10 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 ### Misc.
 [Harmony Explained: Progress Towards A Scientific Theory of Music](http://arxiv.org/html/1202.4212v1)  
 [Dissonance and Subjectivity](http://arstechnica.com/science/2016/07/the-jaws-theme-might-not-be-scary-for-tsimane-people/)  
-[Combinatorial Music Theory](http://andrewduncan.net/cmt/)  
+[Combinatorial Music Theory](http://andrewduncan.net/cmt/) 
+
+## Culture
+[How VR Gaming will Wake Us up to Our Fake Worlds](http://ieet.org/index.php/IEET/more/Edge20160628)
 
 ## Math
 [Category Theory for Scientists](http://category-theory.mitpress.mit.edu/)  
