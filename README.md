@@ -1,5 +1,5 @@
 # readings
-This is a repo full of articles, papers and assorted readings that I find to be interesting.
+This is a repo full of articles, papers and assorted readings that I find to be interesting.  Forever a work in progress
 
 ## Programming
 
