@@ -8,6 +8,9 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 #### React
 [Using bind when Passing Props is Bad](https://daveceddia.com/avoid-bind-when-passing-props/)
 
+#### Webpack
+[SurviveJS - Developing with Webpack](http://survivejs.com/webpack/developing-with-webpack/)
+
 ### Functional Programming
 [Algebraic Patterns - Semigroup](http://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
 
