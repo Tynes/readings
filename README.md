@@ -26,7 +26,10 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 
 ### Neuroscience
 [5 Ways to Increase Cognitive Potential](http://blogs.scientificamerican.com/guest-blog/you-can-increase-your-intelligence-5-ways-to-maximize-your-cognitive-potential/)  
-[Fatigue is a Brain Derived Emotion](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3323922/#!po=27.8281)
+[Fatigue is a Brain Derived Emotion](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3323922/#!po=27.8281)  
+
+### Physics  
+[How Feynman Diagrams Almost Saved Space](https://www.quantamagazine.org/20160705-feynman-diagrams-nature-of-empty-space/)  
 
 ### Misc.
 [Harmony Explained: Progress Towards A Scientific Theory of Music](http://arxiv.org/html/1202.4212v1)  
