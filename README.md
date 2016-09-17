@@ -12,7 +12,8 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 [SurviveJS - Developing with Webpack](http://survivejs.com/webpack/developing-with-webpack/)
 
 ### Functional Programming
-[Algebraic Patterns - Semigroup](http://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)
+[Algebraic Patterns - Semigroup](http://philipnilsson.github.io/Badness10k/posts/2016-07-14-functional-patterns-semigroup.html)  
+[The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)  
 
 ### Machine Learning
 [Approaching Almost Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
