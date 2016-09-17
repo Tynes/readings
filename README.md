@@ -25,7 +25,8 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 [Logical Induction- Machine Intelligence Research Institute](https://intelligence.org/2016/09/12/new-paper-logical-induction/)  
 
 ### Data Science
-[How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
+[How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)  
+[How I built a Slack bot to help me find an apartment in San Francisco](https://www.dataquest.io/blog/apartment-finding-slackbot/)  
 
 ## Science
 
@@ -42,7 +43,8 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 [Combinatorial Music Theory](http://andrewduncan.net/cmt/) 
 
 ## Culture
-[How VR Gaming will Wake Us up to Our Fake Worlds](http://ieet.org/index.php/IEET/more/Edge20160628)
+[How VR Gaming will Wake Us up to Our Fake Worlds](http://ieet.org/index.php/IEET/more/Edge20160628)  
+[Beyond Belief: The Cults of Burning Man](https://techgnosis.com/beyond-belief-cults-of-burning-man/)  
 
 ## Math
 [Category Theory for Scientists](http://category-theory.mitpress.mit.edu/)  
