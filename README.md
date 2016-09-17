@@ -17,6 +17,7 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 ### Machine Learning
 [Approaching Almost Any Machine Learning Problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)  
 [Scipy Lecture Notes](http://www.scipy-lectures.org/)  
+[Logical Induction- Machine Intelligence Research Institute](https://intelligence.org/2016/09/12/new-paper-logical-induction/)  
 
 ### Data Science
 [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)
