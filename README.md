@@ -1,5 +1,5 @@
 # readings
-This is a repo full of articles, papers and assorted readings that I find to be interesting.  Forever a work in progress
+This is a repo full of articles, papers and assorted readings that I find to be interesting or thought provoking.  Forever a work in progress
 
 ## Programming  
 
@@ -27,6 +27,7 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 ### Data Science
 [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)  
 [How I built a Slack bot to help me find an apartment in San Francisco](https://www.dataquest.io/blog/apartment-finding-slackbot/)  
+[Computational and Inferential Thinking](https://www.inferentialthinking.com/)  
 
 ## Science
 
@@ -36,6 +37,10 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 
 ### Physics  
 [How Feynman Diagrams Almost Saved Space](https://www.quantamagazine.org/20160705-feynman-diagrams-nature-of-empty-space/)  
+[Richard Feynman and The Connection Machine](http://longnow.org/essays/richard-feynman-connection-machine/)  
+
+### Computer Science Theory
+[](https://pressron.wordpress.com/2016/08/30/what-we-talk-about-when-we-talk-about-computation/)  
 
 ### Misc.
 [Harmony Explained: Progress Towards A Scientific Theory of Music](http://arxiv.org/html/1202.4212v1)  
@@ -45,11 +50,14 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 ## Culture
 [How VR Gaming will Wake Us up to Our Fake Worlds](http://ieet.org/index.php/IEET/more/Edge20160628)  
 [Beyond Belief: The Cults of Burning Man](https://techgnosis.com/beyond-belief-cults-of-burning-man/)  
+[REALITY IS A SHARED HALLUCINATION](http://reactor-core.org/reality-hallucination.html)  
+[Homo Deus by Yuval Noah Harari review – how data will destroy human freedom](https://www.theguardian.com/books/2016/aug/24/homo-deus-by-yuval-noah-harari-review)
 
 ## Math
 [Category Theory for Scientists](http://category-theory.mitpress.mit.edu/)  
 [Scott Aaronson's Biology Paper](http://www.scottaaronson.com/blog/?p=2862)  
 [Math 101: A reading list for lifelong learners](http://ideas.ted.com/math-101-a-reading-list-for-lifelong-learners/)  
+[Habits of highly mathematical people](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e)  
 
 ## News
 [Elon Musk - Master Plan Part Deux](https://www.tesla.com/blog/master-plan-part-deux)
