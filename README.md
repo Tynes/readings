@@ -1,7 +1,11 @@
 # readings
 This is a repo full of articles, papers and assorted readings that I find to be interesting.  Forever a work in progress
 
-## Programming
+## Programming  
+
+### Data Science
+[Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)  
+[How to Become A Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3)  
 
 ### JavaScript
 [Use Cases for Proxies](http://devbryce.com/use-cases-for-es6-proxies/)
@@ -43,6 +47,7 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 ## Math
 [Category Theory for Scientists](http://category-theory.mitpress.mit.edu/)  
 [Scott Aaronson's Biology Paper](http://www.scottaaronson.com/blog/?p=2862)  
+[Math 101: A reading list for lifelong learners](http://ideas.ted.com/math-101-a-reading-list-for-lifelong-learners/)  
 
 ## News
 [Elon Musk - Master Plan Part Deux](https://www.tesla.com/blog/master-plan-part-deux)
