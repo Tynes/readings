@@ -51,7 +51,8 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 [How VR Gaming will Wake Us up to Our Fake Worlds](http://ieet.org/index.php/IEET/more/Edge20160628)  
 [Beyond Belief: The Cults of Burning Man](https://techgnosis.com/beyond-belief-cults-of-burning-man/)  
 [REALITY IS A SHARED HALLUCINATION](http://reactor-core.org/reality-hallucination.html)  
-[Homo Deus by Yuval Noah Harari review – how data will destroy human freedom](https://www.theguardian.com/books/2016/aug/24/homo-deus-by-yuval-noah-harari-review)
+[Homo Deus by Yuval Noah Harari review – how data will destroy human freedom](https://www.theguardian.com/books/2016/aug/24/homo-deus-by-yuval-noah-harari-review)  
+[Isaac Asimov Asks, “How Do People Get New Ideas?”](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)  
 
 ## Math
 [Category Theory for Scientists](http://category-theory.mitpress.mit.edu/)  
