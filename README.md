@@ -61,4 +61,5 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 [Habits of highly mathematical people](https://medium.com/@jeremyjkun/habits-of-highly-mathematical-people-b719df12d15e)  
 
 ## News
-[Elon Musk - Master Plan Part Deux](https://www.tesla.com/blog/master-plan-part-deux)
+[Elon Musk - Master Plan Part Deux](https://www.tesla.com/blog/master-plan-part-deux)  
+[Sam Altman's Manifest Destiny](http://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)  
