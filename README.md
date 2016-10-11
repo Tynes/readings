@@ -40,7 +40,8 @@ This is a repo full of articles, papers and assorted readings that I find to be 
 [Richard Feynman and The Connection Machine](http://longnow.org/essays/richard-feynman-connection-machine/)  
 
 ### Computer Science Theory
-[](https://pressron.wordpress.com/2016/08/30/what-we-talk-about-when-we-talk-about-computation/)  
+[What we talk about when we talk about computation](https://pressron.wordpress.com/2016/08/30/what-we-talk-about-when-we-talk-about-computation/)  
+[IPFS Data Structures](https://www.infoq.com/presentations/data-ipfs-ipld)  
 
 ### Misc.
 [Harmony Explained: Progress Towards A Scientific Theory of Music](http://arxiv.org/html/1202.4212v1)  
